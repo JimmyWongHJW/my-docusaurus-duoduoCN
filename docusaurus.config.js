@@ -3,11 +3,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'DUODUO 资源网',
+  tagline: '海外跨境必备💪',
+  url: 'https://help.duoduo.hk.cn',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
@@ -18,7 +18,7 @@ module.exports = {
   },
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: '多多资源网',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -28,12 +28,12 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: '💡帮助中心',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '消息发布', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://shop.duoduo.hk.cn',
+          label: '🛒多多有货',
           position: 'right',
         },
       ],
@@ -42,46 +42,33 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '服务',
           items: [
             {
-              label: 'Tutorial',
+              label: '帮助中心',
               to: '/docs/intro',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '多多有货（商城）',
+              href: 'https://shop.duoduo.hk.cn',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '客服中心',
+              href: 'https://chat.ssrchat.com/service/fwb5q8',
             },
           ],
         },
         {
-          title: 'More',
+          title: '外站链接',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: '苹果官方网站-AppleID登录管理',
+              href: 'https://appleid.apple.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DuoDuo. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -95,8 +82,6 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
