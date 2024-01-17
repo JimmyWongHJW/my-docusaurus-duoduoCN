@@ -6,7 +6,7 @@ sidebar_position: 2
 # 查询订单
 
 
-### 一键直达：[**订单查询**](https://duoduo.uno/order-search)
+### 一键直达：[**订单查询**](https://shop.duoduo.hk.cn/user/index/query)
 ### 网站入口
 ![](https://file.duoduo.hk.cn/imgs/docs/order-search.webp)
 
