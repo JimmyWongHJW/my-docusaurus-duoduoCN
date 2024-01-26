@@ -32,8 +32,8 @@ module.exports = {
         },
         {to: '/blog', label: '消息发布', position: 'left'},
         {
-          href: 'https://shop.duoduo.hk.cn',
-          label: '🛒多多有货',
+          href: 'https://zai.pm',
+          label: '🛒崽崽自助商城',
           position: 'right',
         },
       ],
@@ -49,8 +49,8 @@ module.exports = {
               to: '/docs/intro',
             },
             {
-              label: '多多有货（商城）',
-              href: 'https://shop.duoduo.hk.cn',
+              label: '崽崽自助商城',
+              href: 'https://zai.pm',
             },
             {
               label: '客服中心',
