@@ -9,7 +9,7 @@ sidebar_position: 1
 
 
 
-## 【多多有货】网站服务
+## 【崽崽自助商城】网站服务
 
 ### 网站常用操作说明
  - [购买下单](/tutorial-basics/mall-intro/purchase-order.md)
@@ -41,9 +41,10 @@ sidebar_position: 1
 ![输入图片说明](https://file.duoduo.hk.cn/imgs/docs/smileface.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjI2MDMyNCwtMTU1MzQ3OTE4NiwtMT
-I3NzYxNDgxOSwxMjMzODQ3OTIwLC0xOTg2NzAyMzgsLTcyOTkx
-MTk2NSwtMjI0MDQ3NjExLC0yMDcwNDc4OTksLTE3MDY3MzMyMz
-EsMTQ0MTg4OTU5NiwtODIxNjg4ODUsLTMxNDAyMDc1NSwtMjk4
-NzYxNTQzLDQ4NzQwNzgzNSwxMzY3NDk4NjMwXX0=
+eyJoaXN0b3J5IjpbLTUwMTY2NzE1LC01MDYyNjAzMjQsLTE1NT
+M0NzkxODYsLTEyNzc2MTQ4MTksMTIzMzg0NzkyMCwtMTk4Njcw
+MjM4LC03Mjk5MTE5NjUsLTIyNDA0NzYxMSwtMjA3MDQ3ODk5LC
+0xNzA2NzMzMjMxLDE0NDE4ODk1OTYsLTgyMTY4ODg1LC0zMTQw
+MjA3NTUsLTI5ODc2MTU0Myw0ODc0MDc4MzUsMTM2NzQ5ODYzMF
+19
 -->
